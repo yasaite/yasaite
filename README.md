@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Maryia Yasaite!  
 
-<!--
-**yasaite/yasaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Researcher | Data Enthusiast | Problem-Solver**  
+📍 Based in Barcelona, Spain  
 
-Here are some ideas to get you started:
+### 🔥 About Me  
+- Passionate about **data analysis, research, and interdisciplinary approaches**  
+- Exploring the intersection of **science, technology, and human behavior**  
+- Strong background in **education, research, and creative problem-solving**  
+- Interested in **sustainability, critical thinking, and knowledge systems**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do  
+🔍 **Data & Research** – Finding insights in complex systems  
+📊 **Analysis & Strategy** – Structured thinking & problem-solving  
+💡 **Creative Exploration** – Connecting ideas across disciplines  
+
+### 🛠 Tech & Tools  
+- **Languages**: Python, SQL, Markdown  
+- **Data Tools**: Pandas, NumPy, Matplotlib  
+- **Other Skills**: Research methodologies, content development, analytical writing  
